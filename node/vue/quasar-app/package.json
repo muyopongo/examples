@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@quasar/extras": "1.9.10",
-    "core-js": "3.7.0",
+    "core-js": "3.8.0",
     "quasar": "1.14.5"
   },
   "devDependencies": {
